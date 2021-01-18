@@ -1,0 +1,29 @@
+div {
+    background-color: chartreuse;
+    height: 200px;
+    width: 200px;
+    border: solid 10px;
+    padding:20px;
+}
+.middle-container{
+    background-color: crimson;
+    height: 200px;
+    width: 200px;
+    margin-left: 260px;
+    border:solid 20px;
+    
+    
+}
+.bottom-container{
+    background-color: violet;
+    height: 200px;
+    width: 200px;
+    margin-left: 540px;
+    border: 10px;
+    
+}
+
+body{
+    margin-top: 0px;
+    margin-left: 0px;
+}

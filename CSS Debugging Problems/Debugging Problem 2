@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="css/styles.css">
   </head>
 
-  <body>
+  <body style="background-color: white">
     <table cellspacing="20">
       <tr>
         <td><img src="images/angela.png" alt="angela profile picture"></td>
