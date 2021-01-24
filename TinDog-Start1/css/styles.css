@@ -119,3 +119,38 @@ p{
     font-weight: bold;
     
 }
+#cta{
+    background-color: #ff4c68;
+    padding: 140px;
+    text-align: center;
+     
+    
+    
+}
+.cat-title{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 3.5rem;
+    color: #fff;
+}
+#cta.h3{
+    font-size: 20px;
+}
+#footer{
+    padding:100px;
+    text-align: center;
+}
+.footer-icon {
+    padding: 5px;
+}
+
+@media(max-width:993px){
+    #title{
+        text-align: center;
+    }
+    .title-image{
+        position: static;
+        transform: rotate(0);
+    }
+
+}
